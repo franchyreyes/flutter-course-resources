@@ -1,16 +1,28 @@
-# master_flutter
+# Flutter Master Class
 
-A new Flutter application.
+It is a complete Flutter Development Bootcamp Using Dart. (Just For Practice)
 
-## Getting Started
+### Prerequisites
+* Follow this step by step for installing Flutter: - [Installing Flutter](https://flutter.dev/docs/get-started/install)
 
-This project is a starting point for a Flutter application.
+### Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+1- Clone repository 
+```
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+git clone https://github.com/franchyreyes/flutter-course-resources
+```
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+2- Start using
+
+Connect your device on the machine and run, or run on the emulator
+
+
+## License
+
+[Flutter license](https://github.com/flutter/flutter/blob/master/LICENSE)
+
+Note: This code has only been tested in the Android environment
+
+Any question feel free to contact me at franchyreyes@hotmail.com
+
