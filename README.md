@@ -10,7 +10,7 @@ It is a complete Flutter Development Bootcamp Using Dart. (Just For Practice)
 1- Clone repository 
 ```
 
-git clone https://github.com/franchyreyes/Flutter-Course-Resources
+git clone https://github.com/franchyreyes/flutter-course-resources
 ```
 
 2- Start using
